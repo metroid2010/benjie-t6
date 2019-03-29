@@ -1,0 +1,5 @@
+Modify the problem that the player cannot scan the memory card automatically in Japanese
+Decrease the font size when it is in English
+Add the built-in idle shutdown function(Power off automatically for over 2 minutes without operation, not allowed to adjust)
+Add “Language” under each of the language option(except English)
+Optimize the wrong display of song sequence in music playing interface

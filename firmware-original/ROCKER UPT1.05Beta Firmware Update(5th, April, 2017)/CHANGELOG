@@ -1,0 +1,9 @@
+Update bookmark list and the quantity limit of M3U list(maximum bookmark list: 200; maximum M3U list: 1000)
+Update progress bar and wrong time of songs in bookmark after switch songs manually or automatically when songs are playing from the start
+Update: Keep playing after playing all songs once(Former version: When choose shuffle all songs, all songs will only play once and then stop playing.)
+Update the languages of player for different countries
+Hold the up arrow button to back to the main menu when it is in music playing interface
+Update: the player can not be operated when the screen is off. (Former version: when the screen is off in the list interface, you can press the up/down arrow buttons to scroll up/down)
+In 12-hour mode, 12:00 pm will shown as 0:00 instead of 12:00
+Add “All Songs” option under the “Add to Artists/Album List”
+Support DTS encoding

@@ -1,0 +1,13 @@
+
+kernel={
+	name=kernel
+	file_path=autoupdate/uimage.bin
+	md5=2d4ec607fcb20c4431b02974eeb6a72e
+}
+
+rootfs={
+	name=rootfs
+	full_upgrade=yes
+	file_path=autoupdate/system.ubi
+	md5=c547b9e3e582bfcfe83b133d8ea7708a
+}
