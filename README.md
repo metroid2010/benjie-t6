@@ -19,3 +19,8 @@ The T6/Rocker "Firmware Update" function looks for whatever "update.upt" file th
 
 This is the official source for firmwares. Latest packs Rockbox in dual-boot:
 https://www.agptek.com/index.php/blog/agptek-rocker-firmware-download-2/
+
+## Rockbox
+
+Official page from the Rockbox project
+https://www.rockbox.org/wiki/AgptekRocker
